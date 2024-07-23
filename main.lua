@@ -8,4 +8,5 @@ StarterGui:SetCore("SendNotification", {
         print("Nova Injected")
     end;
     OkButton = "OK"; 
+    Icon = "rbxassetid://18623351695"
 })
