@@ -1,11 +1,11 @@
 local StarterGui = game:GetService("StarterGui")
 
 StarterGui:SetCore("SendNotification", {
-    Title = "Crypt";
-    Text = "Crypt Has Been Injected!";
+    Title = "Nova";
+    Text = "Nova has been succesfully injected!";
     Duration = 5;
     Callback = function()
-        print("Crypt Injected")
+        print("Nova Injected")
     end;
     OkButton = "OK"; 
 })
